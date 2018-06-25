@@ -1,0 +1,14 @@
+body {
+  background: plum;
+}
+
+.jumbotron {
+  background: gray;
+  margin-top: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.topHeader {
+  background: rgb(192, 192, 192);
+}
